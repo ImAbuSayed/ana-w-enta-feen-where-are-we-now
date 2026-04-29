@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي، أين نحن الآن؟ في عتمة الليل
+> Ya habibi, ayna nahnu al'an? Fi 'atmat al-layl
+> أشعر بطيفك، يهمس للروح قبل الويل
+> Ash'ur bitayfika, yahmisu lil-ruh qabla al-wayl
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
