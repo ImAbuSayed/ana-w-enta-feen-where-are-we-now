@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 29, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ana-w-enta-feen-where-are-we-now/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Obtain a Music License for Ana W Enta Feen – Where are we now](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Music Rights & Licensing for Ana W Enta Feen – Where are we now](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
